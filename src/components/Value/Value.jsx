@@ -48,7 +48,7 @@ const Value = () => {
         </label>
         <br />
         <label>
-          Enter your Result from University:
+          Enter your result from university:
           <br />
           <input
             className="border border-lime-500 "
